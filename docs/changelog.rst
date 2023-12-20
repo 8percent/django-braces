@@ -4,6 +4,8 @@
 Changelog
 =========
 
+* :support:`305` Updates for Django 4.2.
+* :release:`1.17.0 <2023-12-20>`
 * :support:`286` Updates for Django 4.0.
 * :feature:`275` CacheControlMixin
 * :release:`1.16.0 <2023-04-23>`
